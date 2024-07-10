@@ -15,6 +15,11 @@ This project showcases a web-based application for generating blog content using
 Watch the demo video on YouTube to see the application in action: [Demo Video Link](https://www.youtube.com/watch?v=YourVideoLinkHere)
 
 ## Challenges
+- Time-consuming research processes
+- Inefficiency in strategy planning and meeting management
+- Difficulty in extracting insights from large volumes of PDF documents
+- Difficulty in understanding market for product
+
 ## Features
 - Indepth research about user query
 - Product Market Research

@@ -7,7 +7,6 @@ This project showcases a web-based application for generating blog content using
 - [Challenges](#challenges)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Team Members](#team-members)
 - [Results](#results)
 
@@ -48,3 +47,7 @@ Watch the demo video on YouTube to see the application in action: [Demo Video Li
    ```bash
    git clone https://github.com/YourGithubUsername/CodeCrafters-Hackathon.git
    cd CrewAI-Content-Generator
+
+
+## Team Members
+1.Shani Darji [Github Link](https://github.com/Shani2708 )

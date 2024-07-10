@@ -21,10 +21,10 @@ Watch the demo video on YouTube to see the application in action: [Demo Video Li
 - Difficulty in understanding market for product
 
 ## Features
-- Indepth research about user query:
-  Automation: Streamline research and content creation
-  Specialization: Leverage agents' strengths for high-quality output
-  Scalability: Easily adapt to different topics and content types
+- **Indepth research about user query:**
+  Streamline research and content creation.
+  Leverage agents' strengths for high-quality output.
+  Easily adapt to different topics and content types.
   
 
 - Product Market Research

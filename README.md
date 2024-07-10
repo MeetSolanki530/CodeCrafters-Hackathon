@@ -50,4 +50,7 @@ Watch the demo video on YouTube to see the application in action: [Demo Video Li
 
 
 ## Team Members
-1.Shani Darji [Github Link](https://github.com/Shani2708 )
+1. Shani Darji [Github](https://github.com/Shani2708) [LinkdIn]( https://www.linkedin.com/in/shani-darji-59b2a8263)
+2. Manav patel [Github]((https://github.com/manavpatel571 ) [LinkdIn]( https://www.linkedin.com/in/manav-patel-571-aiml)
+3. Meet Solanki [Github](https://github.com/MeetSolanki530 ) [LinkdIn](https://www.linkedin.com/in/meet-solanki-b96a78230/)
+4. Ansh Darji [Github](https://github.com/AnshDarji12 ) [LinkdIn]( https://www.linkedin.com/in/ansh-darji-a64a93230/)

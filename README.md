@@ -4,6 +4,7 @@ This project showcases a web-based application for generating blog content using
 
 ## Table of Contents
 - [Demo Video](#demo-video)
+- [Challenges](#challenges)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -13,10 +14,12 @@ This project showcases a web-based application for generating blog content using
 ## Demo Video
 Watch the demo video on YouTube to see the application in action: [Demo Video Link](https://www.youtube.com/watch?v=YourVideoLinkHere)
 
+## Challenges
 ## Features
-- Interactive web interface built with Flask and Tailwind CSS.
-- Utilizes CrewAI to process and generate content based on user input.
-- Displays real-time processing steps and results.
+- Indepth research about user query
+- Product Market Research
+- Meeting Management
+- PDF Analyzer
 
 ## Installation
 

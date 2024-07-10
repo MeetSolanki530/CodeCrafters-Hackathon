@@ -25,11 +25,14 @@ Watch the demo video on YouTube to see the application in action: [Demo Video Li
   Streamline research and content creation.
   Leverage agents' strengths for high-quality output.
   Easily adapt to different topics and content types.
-  
-
-- Product Market Research
-- Meeting Management
-- PDF Analyzer
+- **Product Market Research:**
+  If any company wants to build a new product then this tool is very helpful for them to do market research such as current market size, growth rate, trends etc.
+  It also give the scalability, business plan, timeline for launching new product.
+  User just need to give product idea and based on that this tool will give all the things which i mentioned.
+- **Meeting Management:**
+  Ensures well-Improves meeting efficiency and effectiveness by using the purpose and members information.
+- **PDF Analyzer:**
+  This tool is take pdf as input and the pdf will be stored in database and after uploading the pdf user can extract any information from the uploaded pdf.
 
 ## Installation
 

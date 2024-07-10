@@ -27,5 +27,5 @@ Watch the demo video on YouTube to see the application in action: [Demo Video Li
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourGithubUsername/CrewAI-Content-Generator.git
+   git clone https://github.com/YourGithubUsername/CodeCrafters-Hackathon.git
    cd CrewAI-Content-Generator

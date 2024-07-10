@@ -23,7 +23,10 @@ Watch the demo video on YouTube to see the application in action: [Demo Video Li
 ### Prerequisites
 - Python 3.8 or higher
 - Flask
-
+- duckduckgo-search
+- crewai
+- crewai_tools
+- googlesearch-python
 ### Steps
 1. Clone the repository:
    ```bash

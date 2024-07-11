@@ -50,7 +50,7 @@ Watch the demo video on YouTube to see the application in action: [Demo Video Li
    git clone https://github.com/YourGithubUsername/CodeCrafters-Hackathon.git
    ```
 2. Run app.py file:
-  ```bash
+   ```bash
    python run app.py
    ```
 

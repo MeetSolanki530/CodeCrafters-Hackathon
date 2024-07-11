@@ -48,7 +48,6 @@ Watch the demo video on YouTube to see the application in action: [Demo Video Li
    git clone https://github.com/YourGithubUsername/CodeCrafters-Hackathon.git
    python run app.py
 
-
 ## Team Members
 1. Shani Darji [Github](https://github.com/Shani2708) [LinkdIn]( https://www.linkedin.com/in/shani-darji-59b2a8263)
 2. Manav patel [Github](https://github.com/manavpatel571 ) [LinkdIn]( https://www.linkedin.com/in/manav-patel-571-aiml)

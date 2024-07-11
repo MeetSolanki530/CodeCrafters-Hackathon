@@ -11,7 +11,7 @@ This project showcases a web-based application for generating blog content using
 - [Results](#results)
 
 ## Demo Video
-Watch the demo video on YouTube to see the application in action: [Demo Video Link](https://www.youtube.com/watch?v=YourVideoLinkHere)
+Watch the demo video on YouTube to see the application in action: [Demo Video Link](https://www.youtube.com/watch?v=1ZZ6xTR25LY)
 
 ## Challenges
 - Time-consuming research processes

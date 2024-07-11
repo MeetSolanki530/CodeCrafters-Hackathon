@@ -8,7 +8,6 @@ This project showcases a web-based application for generating blog content using
 - [Features](#features)
 - [Installation](#installation)
 - [Team Members](#team-members)
-- [Results](#results)
 
 ## Demo Video
 Watch the demo video on YouTube to see the application in action: [Demo Video Link](https://www.youtube.com/watch?v=1ZZ6xTR25LY)
@@ -61,3 +60,5 @@ Watch the demo video on YouTube to see the application in action: [Demo Video Li
 2. Manav patel [Github](https://github.com/manavpatel571 ) [LinkdIn]( https://www.linkedin.com/in/manav-patel-571-aiml)
 3. Meet Solanki [Github](https://github.com/MeetSolanki530 ) [LinkdIn](https://www.linkedin.com/in/meet-solanki-b96a78230/)
 4. Ansh Darji [Github](https://github.com/AnshDarji12 ) [LinkdIn]( https://www.linkedin.com/in/ansh-darji-a64a93230/)
+
+

@@ -51,8 +51,8 @@ Watch the demo video on YouTube to see the application in action: [Demo Video Li
    ```
 2. Run app.py file:
   ```bash
-  python run app.py
-  ```
+   python run app.py
+   ```
 
 ## Team Members
 1. Shani Darji [Github](https://github.com/Shani2708) [LinkdIn]( https://www.linkedin.com/in/shani-darji-59b2a8263)

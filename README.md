@@ -42,6 +42,8 @@ Watch the demo video on YouTube to see the application in action: [Demo Video Li
 - crewai
 - crewai_tools
 - googlesearch-python
+- langchain-google-genai
+- langchain-groq
 
 ### Steps
 

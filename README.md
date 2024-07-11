@@ -36,7 +36,7 @@ Watch the demo video on YouTube to see the application in action: [Demo Video Li
 
 ### Prerequisites
 - Python 3.8 or higher
-- Flask
+- flask
 - duckduckgo-search
 - crewai
 - crewai_tools

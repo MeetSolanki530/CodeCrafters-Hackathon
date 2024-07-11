@@ -43,6 +43,7 @@ Watch the demo video on YouTube to see the application in action: [Demo Video Li
 - googlesearch-python
 - langchain-google-genai
 - langchain-groq
+- faiss-cpu
 
 ### Steps
 

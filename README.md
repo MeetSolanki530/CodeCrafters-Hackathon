@@ -46,7 +46,11 @@ Watch the demo video on YouTube to see the application in action: [Demo Video Li
 1. Clone the repository:
    ```bash
    git clone https://github.com/YourGithubUsername/CodeCrafters-Hackathon.git
-   python run app.py
+   ```
+2. Run app.py file:
+  ```bash
+     python run app.py
+  ```
 
 ## Team Members
 1. Shani Darji [Github](https://github.com/Shani2708) [LinkdIn]( https://www.linkedin.com/in/shani-darji-59b2a8263)

@@ -44,6 +44,7 @@ Watch the demo video on YouTube to see the application in action: [Demo Video Li
 - langchain-google-genai
 - langchain-groq
 - faiss-cpu
+- python-dotenv
 
 ### Steps
 
